@@ -9,8 +9,8 @@ Therefore, this font is patched to yield a pleasant display. Hope it helps. :)
 
 Before patching:
 
-.. image:: https://raw.githubusercontent.com/Determinant/inconsolata_for_powerline_mod/master/tmux_before.png
+.. image:: https://raw.githubusercontent.com/Determinant/inconsolata_for_powerline_mod/master/tmux-before.png
 
 After patching:
 
-.. image:: https://raw.githubusercontent.com/Determinant/inconsolata_for_powerline_mod/master/tmux_after.png
+.. image:: https://raw.githubusercontent.com/Determinant/inconsolata_for_powerline_mod/master/tmux-after.png
